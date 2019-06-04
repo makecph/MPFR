@@ -1,0 +1,4 @@
+[submodule "GMP"]
+	path = GMP
+	url = git@github.com:makecph/GMP.git
+	branch = master
